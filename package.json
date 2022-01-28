@@ -25,6 +25,7 @@
         "vite": "^2.6.0"
     },
     "dependencies": {
-        "vue": "^3.2.6"
+        "vue": "^3.2.6",
+        "vue-router": "4"
     }
 }

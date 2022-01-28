@@ -6,6 +6,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <div class="bg-gray-200 m-8 p-8">
+    <router-view />
+  </div>
 </template>
 
 <style>
